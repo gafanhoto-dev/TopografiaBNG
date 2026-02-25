@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="28.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3">
   <diagram name="Página-1" id="r2Ha-Jm3Mj-U4ar_reMN">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-9" edge="1" parent="1" source="Z03TniG8IfbaRZHsEjtM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z03TniG8IfbaRZHsEjtM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.antenna;network2IconYOffset=0.0004;network2IconW=0.508;network2IconH=0.9997;" value="POSTES RUA&#xa;(BIDIRECIONAL)" vertex="1">
+          <mxGeometry height="81.92" width="41.63" x="89" y="24.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-10" edge="1" parent="1" source="Z03TniG8IfbaRZHsEjtM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z03TniG8IfbaRZHsEjtM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-3" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.satellite;network2IconXOffset=0.0149;network2IconYOffset=-0.00046;network2IconW=1.1553;network2IconH=0.9741;shadow=0;" value="SATÉLITE" vertex="1">
+          <mxGeometry height="48.705" width="57.765" x="213.46999999999997" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-13" edge="1" parent="1" source="Z03TniG8IfbaRZHsEjtM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z03TniG8IfbaRZHsEjtM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-4" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.satellite_dish;network2IconXOffset=-0.0067;network2IconYOffset=0.0022;network2IconW=1.0065;network2IconH=0.9957;fontStyle=0" value="STARLINK" vertex="1">
+          <mxGeometry height="59.36" width="60" x="212.24" y="195.32" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-14" edge="1" parent="1" source="Z03TniG8IfbaRZHsEjtM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z03TniG8IfbaRZHsEjtM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-6" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;ALGAR TELECOM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="60" y="224.68" as="geometry" />
+        </mxCell>
+        <mxCell id="Z03TniG8IfbaRZHsEjtM-11" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" value="FIREWALL&lt;br&gt;(FORTINET)" vertex="1">
+          <mxGeometry height="80" width="80" x="132.24" y="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
